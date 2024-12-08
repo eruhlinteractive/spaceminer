@@ -1,0 +1,4 @@
+[submodule "include/Astrocore"]
+	path = include/Astrocore
+	url = git@github.com:eruhlinteractive/Astrocore.git
+	branch = main
